@@ -1,0 +1,1 @@
+# Détection de la race de chien à partir de sa photo avec des réseaux de neurones à convolution et le transfert learning
